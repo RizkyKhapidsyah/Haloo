@@ -7,6 +7,6 @@ Learn basic of Assembly Language using Masm32.
 -------------------------------------------------------- <br>
 <br>
 Coded by Rizky Khapidsyah <br>
-I.D.E: Masm32 Editor
+Compiler: Masm32
 
 
